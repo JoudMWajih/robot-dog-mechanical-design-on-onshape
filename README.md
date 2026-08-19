@@ -4,7 +4,9 @@ A simplified 3D mechanical design of a four-legged robot dog created using Onsha
 
 ## Onshape Design
 
-[Open the complete design in Onshape](https://cad.onshape.com/documents/70701d6d041655af1b052bb8/w/056340ef42eef972a739b04b/e/080017a3e2f7fcab956ac37b?renderMode=0&uiState=6a85afeb0aabe49fd9f457b1)
+https://cad.onshape.com/documents/70701d6d041655af1b052bb8/w/056340ef42eef972a739b04b/e/080017a3e2f7fcab956ac37b?renderMode=0&uiState=6a85afeb0aabe49fd9f457b1
+
+"please copy and paste the URL so it works! :) "
 
 ## Components
 
